@@ -8,5 +8,5 @@ Naming Convention : "M1_RestaurantManagementsystem"
 
 
 # CODIGA :
-codiga static analysis
- https://api.codiga.io/project/32549/score/svg
+* codiga static analysis
+* ![QUALITY](https://api.codiga.io/project/32549/score/svg)
